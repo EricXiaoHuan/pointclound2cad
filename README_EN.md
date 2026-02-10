@@ -242,3 +242,11 @@ This project uses the following open-source libraries:
 - [Boost](https://www.boost.org/)
 
 Thanks to all developers and contributors of these open-source libraries!
+
+## Donate
+
+If you find this project helpful, you can support the development through the following methods:
+
+|  |  |
+|---------|-------|
+| ![WeChat Pay](images/wechat_pay_qrcode.jpg) | ![Alipay](images/alipay_qrcode.jpg) |
